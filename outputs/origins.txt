@@ -1,0 +1,1048 @@
+F5_1:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_2:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_3:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_4:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_5:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_6:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_7:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_8:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_9:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_10:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_11:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_12:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_13:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_14:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_15:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_16:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_17:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_18:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_19:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_20:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_21:	Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_22:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_23:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_24:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_25:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_26:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_27:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_28:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_29:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_30:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_31:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_32:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_33:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_34:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_35:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_36:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_37:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_38:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Russia Mozabite Chuvash 
+
+F5_39:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Russia Mozabite Chuvash 
+
+F5_40:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_41:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_42:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_43:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_44:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_45:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_46:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_47:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_48:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_49:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_50:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_51:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_52:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_53:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_54:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_55:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_56:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite 
+
+F5_57:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite 
+
+F5_58:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite 
+
+F5_59:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite 
+
+F5_60:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite 
+
+F5_61:	Sardinia Denmark Palestinian Tuscany Yemenite France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_62:	Sardinia Denmark Palestinian Tuscany Yemenite France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_63:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_64:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_65:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite 
+
+F5_66:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite 
+
+F5_67:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite 
+
+F5_68:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite 
+
+F5_69:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite 
+
+F5_70:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_71:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_72:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_73:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_74:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_75:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_76:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_77:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_78:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_79:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_80:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_81:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_82:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_83:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_84:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_85:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_86:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_87:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_88:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_89:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_90:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_91:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_92:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_93:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_94:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_95:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_96:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_97:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_98:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_99:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_100:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_101:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_102:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_103:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_104:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_105:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_106:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_107:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_108:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_109:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_110:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_111:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_112:	Denmark Palestinian Basque Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_113:	Denmark Palestinian Basque Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_114:	Denmark Palestinian Basque Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_115:	Denmark Palestinian Basque Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_116:	Denmark Palestinian Basque Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_117:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_118:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_119:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_120:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_121:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_122:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_123:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_124:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_125:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_126:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_127:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_128:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_129:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_130:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_131:	Denmark Palestinian Basque Tuscany Druze France Mozabite Chuvash 
+
+F5_132:	Denmark Palestinian Basque Tuscany Druze France Mozabite Chuvash 
+
+F5_133:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_134:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_135:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_136:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_137:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_138:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_139:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_140:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_141:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_142:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_143:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_144:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_145:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_146:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_147:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_148:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_149:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_150:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_151:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_152:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Russia Mozabite Chuvash 
+
+F5_153:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Chuvash 
+
+F5_154:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Chuvash 
+
+F5_155:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Chuvash 
+
+F5_156:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Chuvash 
+
+F5_157:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_158:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_159:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_160:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_161:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_162:	Sardinia Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_163:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite 
+
+F5_164:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite 
+
+F5_165:	Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_166:	Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_167:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_168:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_169:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_170:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_171:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_172:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_173:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_174:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_175:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_176:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_177:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_178:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_179:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_180:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_181:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_182:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_183:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Mozabite Chuvash 
+
+F5_184:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Mozabite Chuvash 
+
+F5_185:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Mozabite Chuvash 
+
+F5_186:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Mozabite Chuvash 
+
+F5_187:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_188:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_189:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_190:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_191:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_192:	Sardinia Denmark Palestinian Basque Tuscany Bedouin Russia Mozabite Chuvash 
+
+F5_193:	Sardinia Denmark Palestinian Basque Tuscany Bedouin Russia Mozabite Chuvash 
+
+F5_194:	Sardinia Denmark Palestinian Basque Tuscany Bedouin Russia Mozabite Chuvash 
+
+F5_195:	Sardinia Denmark Palestinian Basque Tuscany Bedouin Russia Mozabite Chuvash 
+
+F5_196:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_197:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_198:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_199:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_200:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_201:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_202:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_203:	Denmark Basque Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_204:	Denmark Basque Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_205:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_206:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_207:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_208:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite 
+
+F5_209:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Mozabite 
+
+F5_210:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_211:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_212:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_213:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_214:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_215:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_216:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_217:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_218:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_219:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_220:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_221:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_222:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_223:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_224:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_225:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_226:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_227:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_228:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_229:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_230:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_231:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_232:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_233:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_234:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_235:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_236:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_237:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_238:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_239:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_240:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_241:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_242:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_243:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_244:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_245:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_246:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_247:	Sardinia Denmark Palestinian Tuscany Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_248:	Sardinia Denmark Palestinian Tuscany Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_249:	Sardinia Denmark Palestinian Tuscany Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_250:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_251:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_252:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_253:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_254:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_255:	Sardinia Palestinian Tuscany France Italy Russia Mozabite Chuvash 
+
+F5_256:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_257:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_258:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_259:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_260:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_261:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_262:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_263:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_264:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_265:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_266:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_267:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_268:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_269:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_270:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_271:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_272:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_273:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_274:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_275:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_276:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_277:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_278:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_279:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_280:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite 
+
+F5_281:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_282:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_283:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_284:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_285:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_286:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_287:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Russia Mozabite Chuvash 
+
+F5_288:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_289:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_290:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_291:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_292:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_293:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_294:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_295:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_296:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_297:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_298:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_299:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_300:	Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_301:	Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_302:	Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_303:	Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_304:	Denmark Palestinian Tuscany Yemenite Druze France Italy Russia Mozabite Chuvash 
+
+F5_305:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_306:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_307:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_308:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_309:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_310:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_311:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_312:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_313:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_314:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_315:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_316:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_317:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_318:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_319:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_320:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_321:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_322:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_323:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_324:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_325:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_326:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_327:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_328:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_329:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_330:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_331:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_332:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_333:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_334:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_335:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_336:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_337:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_338:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_339:	Sardinia Palestinian Tuscany Druze France Bedouin Mozabite Chuvash 
+
+F5_340:	Sardinia Palestinian Tuscany Druze France Bedouin Mozabite Chuvash 
+
+F5_341:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_342:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_343:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_344:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_345:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_346:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_347:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_348:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_349:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_350:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_351:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_352:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_353:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_354:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_355:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_356:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_357:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_358:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_359:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_360:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_361:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_362:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_363:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_364:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_365:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_366:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_367:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_368:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_369:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_370:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_371:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_372:	Sardinia Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_373:	Sardinia Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_374:	Sardinia Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_375:	Sardinia Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_376:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_377:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_378:	Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_379:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_380:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_381:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_382:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_383:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_384:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_385:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_386:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_387:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Mozabite Chuvash 
+
+F5_388:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_389:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_390:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_391:	Denmark Palestinian Basque Tuscany Druze France Italy Russia Mozabite Chuvash 
+
+F5_392:	Denmark Palestinian Basque Tuscany Druze France Italy Russia Mozabite Chuvash 
+
+F5_393:	Denmark Palestinian Basque Tuscany Druze France Italy Russia Mozabite Chuvash 
+
+F5_394:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_395:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_396:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_397:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_398:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_399:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_400:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_401:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_402:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_403:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_404:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_405:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_406:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_407:	Sardinia Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_408:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_409:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_410:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_411:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_412:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_413:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_414:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_415:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_416:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_417:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_418:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_419:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_420:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_421:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_422:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_423:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_424:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_425:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_426:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_427:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_428:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_429:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_430:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_431:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_432:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_433:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_434:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_435:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_436:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_437:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_438:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_439:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_440:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_441:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_442:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_443:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_444:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_445:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_446:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_447:	Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_448:	Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_449:	Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_450:	Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_451:	Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_452:	Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_453:	Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_454:	Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_455:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_456:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_457:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_458:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_459:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_460:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_461:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_462:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_463:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_464:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_465:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_466:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_467:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_468:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Russia Mozabite Chuvash 
+
+F5_469:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_470:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_471:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_472:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_473:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_474:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_475:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Chuvash 
+
+F5_476:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_477:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_478:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_479:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_480:	Sardinia Denmark Palestinian Basque Tuscany Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_481:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_482:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_483:	Sardinia Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_484:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_485:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_486:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_487:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_488:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_489:	Denmark Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_490:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_491:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_492:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_493:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_494:	Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_495:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_496:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_497:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_498:	Sardinia Denmark Palestinian Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_499:	Sardinia Palestinian Tuscany Yemenite Druze France Bedouin Italy Mozabite Chuvash 
+
+F5_500:	Sardinia Denmark Palestinian Basque Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_501:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_502:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_503:	Denmark Palestinian Tuscany Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_504:	Palestinian Basque Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_505:	Palestinian Basque Tuscany Yemenite Druze Bedouin Italy Russia Mozabite Chuvash 
+
+F5_506:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_507:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_508:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_509:	Palestinian Basque Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_510:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_511:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_512:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_513:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_514:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_515:	Sardinia Denmark Palestinian Basque Tuscany Yemenite France Bedouin Italy Russia Chuvash 
+
+F5_516:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_517:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_518:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_519:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_520:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Italy Russia Mozabite Chuvash 
+
+F5_521:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_522:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_523:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
+F5_524:	Sardinia Denmark Palestinian Tuscany Yemenite Druze France Bedouin Russia Mozabite Chuvash 
+
